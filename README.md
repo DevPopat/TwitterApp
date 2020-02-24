@@ -43,7 +43,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/DevPopat/TwitterAppPart2' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/DevPopat/TwitterAppPart2/blob/master/W7hveLEIkH.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [Recordit](https://recordit.co).
 
