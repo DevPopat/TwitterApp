@@ -40,10 +40,6 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [Recordit](https://recordit.co/).
 
-## Notes
-
-Describe any challenges encountered while building the app.
-
 ## Open-source libraries used
 
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
@@ -113,10 +109,6 @@ Here's a walkthrough of implemented user stories:
 <img src='https://github.com/DevPopat/TwitterAppPart2/blob/master/W7hveLEIkH.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [Recordit](https://recordit.co).
-
-## Notes
-
-Describe any challenges encountered while building the app.
 
 ## Open-source libraries used
 
